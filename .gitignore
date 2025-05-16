@@ -399,4 +399,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-Data/df_modeling.csv
+Data/playground-series-s5e4/df_modeling.csv
+Data/playground-series-s5e4/test.csv
+Data/playground-series-s5e4/train.csv
