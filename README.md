@@ -51,16 +51,18 @@ Example Values: 4.5, 8.0, 30.0, 60.0
 
 
 ### Tools and Libaries used 
-**Python**
-**Pandas**
-**Numpy**
-**Sklearn**
-**Matplotlib**
-**seaborn**
+* **Python**
+* **Pandas**
+* **Numpy**
+* **Sklearn**
+* **Matplotlib**
+* **seaborn**
 
 
 ### Challenges
-**Ensuring categorical variables were properly encoded without duplicating columns.**
-**Avoiding re-encoding after the train-test split to prevent mismatched features.**
-**Long runtimes for some models made iteration slower.**
-**Managing data versions between transformation and modeling steps.**
+
+* ***Avoiding re-encoding after the train-test split to prevent mismatched features.**
+
+* **Long runtimes for some models made iteration slower.**
+
+* **Managing data versions between transformation and modeling steps.**
